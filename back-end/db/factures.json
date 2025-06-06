@@ -1,0 +1,67 @@
+{
+  "factures": [
+    {
+      "numero": "FAC-2023-002",
+      "date": "2023-02-28",
+      "description": "Maintenance serveurs",
+      "client": "Tech Solutions SARL",
+      "prixHT": 850
+    },
+    {
+      "numero": "FAC-2023-003",
+      "date": "2023-03-10",
+      "description": "Formation React.js",
+      "client": "Digital Academy",
+      "prixHT": 1200
+    },
+    {
+      "numero": "FAC-2023-004",
+      "date": "2023-04-05",
+      "description": "Audit sécurité",
+      "client": "Secure Bank SA",
+      "prixHT": 3000
+    },
+    {
+      "numero": "FAC-2023-005",
+      "date": "2023-05-20",
+      "description": "Développement application mobile",
+      "client": "MobileFirst Corp",
+      "prixHT": 4500
+    },
+    {
+      "numero": "FAC-2023-006",
+      "date": "2023-06-15",
+      "description": "Migration base de données",
+      "client": "Data Systems Inc",
+      "prixHT": 1800
+    },
+    {
+      "numero": "FAC-2023-007",
+      "date": "2023-07-01",
+      "description": "Support technique annuel",
+      "client": "Innovation Labs",
+      "prixHT": 5000
+    },
+    {
+      "numero": "FAC-2023-008",
+      "date": "2023-08-12",
+      "description": "Optimisation SEO",
+      "client": "Web Marketing Plus",
+      "prixHT": 750
+    },
+    {
+      "numero": "FAC-2023-009",
+      "date": "2023-09-30",
+      "description": "Intégration API paiement",
+      "client": "E-Shop Express",
+      "prixHT": 1500
+    },
+    {
+      "numero": "FAC-2023-010",
+      "date": "2023-10-15",
+      "description": "Refonte graphique site vitrine",
+      "client": "Design & Co",
+      "prixHT": 2200
+    }
+  ]
+}
